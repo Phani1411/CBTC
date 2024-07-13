@@ -1,2 +1,0 @@
-# CBTC
-Cipherbyte Internship Projects
